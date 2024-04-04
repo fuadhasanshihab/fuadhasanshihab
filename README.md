@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/fuadhasanshihab">
-     <img src="https://raw.githubusercontent.com/fuadhasanshihab/img/main/footer-fuadhasanshihab.svg" alt="Logo" width="60%">
+     <img src="https://raw.githubusercontent.com/fuadhasanshihab/img/main/footer-fuadhasanshihab.svg" alt="Fuad Hasan Shihab Logo" width="150px" height="150px">
   </a>
   <!--
   <h1 align="center">Fuad Hasan Shihab</h1>
@@ -29,8 +29,6 @@ Here are some ideas to get you started:
     <br />
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS
 <details>
@@ -77,7 +75,7 @@ Here are some ideas to get you started:
 ## Pages
    • <a href="https://fuadhasanshihab.blogspot.com/search/Label/Resources">Graphic Design Resources</a><br/>
    • <a href="https://fuadhasanshihab.blogspot.com/search/Label/Resources/#bangla-font">Bangla Font</a><br/>
-   • <a href="https://fuadhasanshihab.blogspot.com/search/Label/Resources/#enhlish-font">English Font</a><br/>
+   • <a href="https://fuadhasanshihab.blogspot.com/search/Label/Resources/#english-font">English Font</a><br/>
    • <a href="https://fuadhasanshihab.blogspot.com/p/tools.html">Design Tools</a><br/>
    • <a href="https://fuadhasanshihab.blogspot.com/search/Label/Blog">Blog</a><br/>
    • <a href="https://fuadhasanshihab.blogspot.com/2023/10/qna.html">QNA Forum</a>
@@ -92,6 +90,12 @@ FB Messenger: [m.me/fuadhasan.shihab](https://m.me/fuadhasan.shihab/)
 -->
 
 <br/>
-<p align="right"><a href="#readme-top">🔝</a></p>
+<p align="right"><a href="#top">🔝</a></p>
 
-<!-- Copyright 2024 Fuad Hasan Shihab -->
+<!-- 
+Copyright 
+2024 
+Fuad 
+Hasan 
+Shihab 
+-->
