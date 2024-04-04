@@ -26,19 +26,13 @@ Here are some ideas to get you started:
 
 <!-- PROJECT SHIELDS -->
 <!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+-->
 
 
 <!-- PROJECT LOGO -->
@@ -51,9 +45,9 @@ Here are some ideas to get you started:
   <h3 align="center">Fuad Hasan Shihab</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    I'm a graphic designer from Bangladesh with an interest in web development, specializing in Typography and Brand Identity Design. With over 5 years of experience, I aim to bring creativity and professionalism to each project. I also share my knowledge through tutorials on YouTube. Having an understanding of HTML, CSS, and JavaScript, I can develop and design websites. I'm committed to delivering quality work tailored to my clients' needs.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://fuadhasanshihab.blogspot.com"><strong>Visit Portfolio »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
