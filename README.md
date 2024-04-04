@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/fuadhasanshihab">
-    <img src="https://raw.githubusercontent.com/fuadhasanshihab/img/main/footer-fuadhasanshihab.svg" alt="Logo" width="100" height="100">
+    <img src="https://raw.githubusercontent.com/fuadhasanshihab/img/main/footer-fuadhasanshihab.svg" alt="Logo" width="130" height="130">
   </a>
 
   <h1 align="center">Fuad Hasan Shihab</h1>
 
   <p align="center">
     I'm a graphic designer from Bangladesh with an interest in web development, specializing in Typography and Brand Identity Design. With over 5 years of experience, I aim to bring creativity and professionalism to each project. I also share my knowledge through tutorials on YouTube. Having an understanding of HTML, CSS, and JavaScript, I can develop and design websites. I'm committed to delivering quality work tailored to my clients' needs.
-    <br />
+    <br /><br/>
     <a href="https://fuadhasanshihab.blogspot.com"><strong>Visit Portfolio »</strong></a>
     <br />
   </p>
@@ -86,14 +86,12 @@ Here are some ideas to get you started:
 ### Pages
 
   <p align="center">
-    <a href="https://github.com/othneildrew/Best-README-Template">Graphic Design Resources</a>
+    <a href="https://fuadhasanshihab.blogspot.com/search/Label/Resources">Graphic Design Resources</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Design Tools</a>
+    <a href="https://fuadhasanshihab.blogspot.com/p/tools.html">Design Tools</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://fuadhasanshihab.blogspot.com/search/Label/Blog">Blog</a>
   </p>
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -104,11 +102,6 @@ FB Messenger: [m.me/fuadhasan.shihab](https://m.me/fuadhasan.shihab/)
 -->
 
 <br/>
-<hr/>
-<p align="right">(<a href="#readme-top"><small>back to top </small>↑↥↾⇈⇑⇕⇧↕⬆⏫⤴⏏🔝</a>)</p>
+<p align="right"><a href="#readme-top">🔝</a></p>
 
-
-
-
-
-
+<!-- Copyright 2024 Fuad Hasan Shihab -->
