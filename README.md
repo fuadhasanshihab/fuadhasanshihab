@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/fuadhasanshihab">
-    <img src="https://raw.githubusercontent.com/fuadhasanshihab/img/main/footer-fuadhasanshihab.svg" alt="Logo" width="60%">
+     <img src="https://raw.githubusercontent.com/fuadhasanshihab/img/main/footer-fuadhasanshihab.svg" alt="Logo" width="60%">
   </a>
   <!--
   <h1 align="center">Fuad Hasan Shihab</h1>
@@ -43,17 +43,24 @@ Here are some ideas to get you started:
   </ol>
 </details> -->
 
-
-<!-- SOCIAL MEDIA https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2 -->
-## Follow On
-
-[![Facebook](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/bb4634715f95ebb209b4e0bcdd4d2d98fe64c64c/facebook-compact.svg)](https://www.facebook.com/fuadhasanshihabyt/)
-
-[![Instagram](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/bb4634715f95ebb209b4e0bcdd4d2d98fe64c64c/instagram-compact.svg)](https://www.instagram.com/fuadhasan_shihab/)
-
-[![YouTube](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/bb4634715f95ebb209b4e0bcdd4d2d98fe64c64c/youtube-compact.svg)](https://youtube.com/channel/UCVXhsiFQQAd727b5SwbbouA)
-
-[![Behance](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/bb4634715f95ebb209b4e0bcdd4d2d98fe64c64c/behance-compact.svg)](https://www.behance.net/fuadhasanshihab)
+<!-- Icon - https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2 -->
+<div align="center">
+<a href="https://www.facebook.com/fuadhasanshihabyt/">
+    <img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/bb4634715f95ebb209b4e0bcdd4d2d98fe64c64c/facebook-icon.svg" alt="icon" height="32">
+</a>
+<a href="https://www.instagram.com/fuadhasan_shihab/">
+    <img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/bb4634715f95ebb209b4e0bcdd4d2d98fe64c64c/instagram-icon.svg" alt="icon" height="32">
+</a>
+<a href="https://youtube.com/channel/UCVXhsiFQQAd727b5SwbbouA">
+    <img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/bb4634715f95ebb209b4e0bcdd4d2d98fe64c64c/youtube-icon.svg" alt="icon" width="32">
+</a>
+<a href="https://www.behance.net/fuadhasanshihab">
+    <img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/bb4634715f95ebb209b4e0bcdd4d2d98fe64c64c/behance-icon.svg" alt="icon" width="32">
+</a>
+<a href="https://www.pinterest.com/fuadhasan_shihab/">
+    <img src="https://cdn.icon-icons.com/icons2/555/PNG/512/pinterest_icon-icons.com_53605.png" alt="icon" width="32">
+</a>
+</div>
 
 
 <!-- Service -->
@@ -68,9 +75,12 @@ Here are some ideas to get you started:
 
 <!-- PROJECT LOGO -->
 ## Pages
-• <a href="https://fuadhasanshihab.blogspot.com/search/Label/Resources">Graphic Design Resources</a>    
-   • <a href="https://fuadhasanshihab.blogspot.com/p/tools.html">Design Tools</a>   
-   • <a href="https://fuadhasanshihab.blogspot.com/search/Label/Blog">Blog</a>
+   • <a href="https://fuadhasanshihab.blogspot.com/search/Label/Resources">Graphic Design Resources</a><br/>
+   • <a href="https://fuadhasanshihab.blogspot.com/search/Label/Resources/#bangla-font">Bangla Font</a><br/>
+   • <a href="https://fuadhasanshihab.blogspot.com/search/Label/Resources/#enhlish-font">English Font</a><br/>
+   • <a href="https://fuadhasanshihab.blogspot.com/p/tools.html">Design Tools</a><br/>
+   • <a href="https://fuadhasanshihab.blogspot.com/search/Label/Blog">Blog</a><br/>
+   • <a href="https://fuadhasanshihab.blogspot.com/2023/10/qna.html">QNA Forum</a>
 
 
 <!-- CONTACT -->
