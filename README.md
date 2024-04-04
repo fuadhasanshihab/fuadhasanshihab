@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a name="readme-top"></a>
+<a name="top"></a>
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/fuadhasanshihab">
