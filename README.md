@@ -88,10 +88,10 @@ contact.shihab1246@gmail.com
 <!--
 FB Messenger: [m.me/fuadhasan.shihab](https://m.me/fuadhasan.shihab/)
 -->
+<hr/>
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=fuadhasanshihab&label=PROFILE%20VISITORS&labelColor=%235956e9&countColor=%23263759)](https://visitorbadge.io/status?path=fuadhasanshihab)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=fuadhasanshihab&label=PROFILE%20VISITORS&labelColor=%235956e9&countColor=%23263759)
 
-<br/>
 <p align="right"><a href="#top">🔝</a></p>
 
 <!-- 
