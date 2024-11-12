@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/fuadhasanshihab">
-     <img src="https://raw.githubusercontent.com/fuadhasanshihab/img/main/footer-fuadhasanshihab.svg" alt="Fuad Hasan Shihab Logo" width="150px" height="150px">
+     <img src="/fuadhasanshihab.svg" alt="Fuad Hasan Shihab Logo" width="150px" height="150px">
   </a>
   <!--
   <h1 align="center">Fuad Hasan Shihab</h1>
