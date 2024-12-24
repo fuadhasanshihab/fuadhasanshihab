@@ -61,17 +61,17 @@ Here are some ideas to get you started:
 </div>
 
 
-<!-- Service -->
+<!-- Service --
 ## Services
 
 - [x] Typography
 - [x] Brand Identity Design
 - [x] Website Development
 - [x] Poster Design
-- [x] Calligraphy
+- [x] Calligraphy-->
     
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT LOGO --
 ## Pages
    • <a href="https://fuadhasanshihab.blogspot.com/search/Label/Resources">Graphic Design Resources</a><br/>
    • <a href="https://fuadhasanshihab.blogspot.com/search/Label/Resources/#bangla-font">Bangla Font</a><br/>
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
    • <a href="https://fuadhasanshihab.blogspot.com/p/tools.html">Design Tools</a><br/>
    • <a href="https://fuadhasanshihab.blogspot.com/search/Label/Blog">Blog</a><br/>
    • <a href="https://fuadhasanshihab.blogspot.com/2023/10/qna.html">QNA Forum</a>
-
+-->
 
 <!-- CONTACT -->
 ## Contact
